@@ -1,6 +1,7 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duck1en&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duck1en)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duck1en&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 <!--
 **Duck1en/Duck1en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
